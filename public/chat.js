@@ -1,4 +1,9 @@
 /**
+ * Author: Alvesss04
+ * Project helped by AI tools.
+ */
+
+/**
  * LLM Chat App Frontend
  * With persistent chat history via localStorage
  */

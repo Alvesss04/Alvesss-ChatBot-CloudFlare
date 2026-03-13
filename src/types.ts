@@ -1,4 +1,9 @@
 /**
+ * Author: Alvesss04
+ * Project helped by AI tools.
+ */
+
+/**
  * Type definitions for the LLM chat application.
  */
 
